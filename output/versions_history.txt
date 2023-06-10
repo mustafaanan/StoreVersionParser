@@ -1,0 +1,1 @@
+{"TikTok":{"android":"29.9.4","ios":"29.8.0"},"Facebook":{"android":"417.0.0.33.65","ios":"418.0"},"Whatsapp":{"android":"2.23.11.77"}}

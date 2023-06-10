@@ -1,0 +1,17 @@
+[
+  {
+    "app_name": "Facebook",
+    "appbrain_path_name": "facebook",
+    "store_id": "com.facebook.katana"
+  },
+  {
+    "app_name": "TikTok",
+    "appbrain_path_name": "tiktok",
+    "store_id": "com.zhiliaoapp.musically"
+  },
+  {
+    "app_name": "Whatsapp",
+    "appbrain_path_name": "whatsapp-messenger",
+    "store_id": "com.whatsapp"
+  }
+]

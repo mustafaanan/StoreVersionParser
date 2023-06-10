@@ -1,0 +1,10 @@
+[
+  {
+    "app_name": "Facebook",
+    "store_id": "com.facebook.Facebook"
+  },
+  {
+    "app_name": "TikTok",
+    "store_id": "com.zhiliaoapp.musically"
+  }
+]
